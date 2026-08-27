@@ -4,7 +4,7 @@ function Card({items}) {
         <>
         <div className="card">
             <h2>Product:{items.name}</h2>
-            <h2>Price:{items.price}</h2>
+            <h2>Price:{items.Price}</h2>
             </div>
             </>
     );
